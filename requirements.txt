@@ -12,6 +12,7 @@ pydantic-settings
 psycopg2-binary
 aiofiles
 python-multipart
+ffmpeg-python
 numpy
 scipy
 requests
